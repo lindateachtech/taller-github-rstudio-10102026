@@ -36,19 +36,25 @@ Antes del taller sigue la **[guía de instalación](guia-instalacion.md)** paso 
 | Recurso | Descripción |
 |---|---|
 | [Guía de instalación](guia-instalacion.md) | Qué instalar antes del taller y cómo comprobarlo |
+| [Código del Taller](R/codigo-taller.R) | Código que utilizaremos durante el Taller |
 | Slides | Próximamente |
 
 ## Recursos para seguir aprendiendo
 
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/), la referencia para usar Git con R.
 - [Documentación de usethis](https://usethis.r-lib.org/).
+- [Writing your first documentation PR](https://github.com/tidyverse/tidy-dev-day/blob/main/worksheet/index.pdf)
 - [rOpenSci](https://ropensci.org/) y su guía de desarrollo de paquetes.
 
 ## Sobre este taller
 
-Este taller forma parte de mi participación en el programa [rOpenSci Champions](https://ropensci.org/champions/) 2026.
+Este taller forma parte de mi participación en el programa [rOpenSci Champions](https://ropensci.org/champions/) 2026. Me acompañará y guiará parte del Taller, mi mentor del programa, Luis D. Verde Arregoitia.
 
 **Linda Cabrera Orellana** · [Web](https://lindateachtech.netlify.app/) · [GitHub](https://github.com/lindateachtech)
+
+**Luis D. Verde Arregoitia** · [Web](https://luisdva.github.io/) · [GitHub](https://github.com/luisDVA)
+
+
 
 ## Links al evento
 
