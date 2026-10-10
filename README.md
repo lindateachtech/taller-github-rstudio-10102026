@@ -37,7 +37,7 @@ Antes del taller sigue la **[guía de instalación](guia-instalacion.md)** paso 
 |---|---|
 | [Guía de instalación](guia-instalacion.md) | Qué instalar antes del taller y cómo comprobarlo |
 | [Código del Taller](R/codigo-taller.R) | Código que utilizaremos durante el Taller |
-| Slides | Próximamente |
+| [Slides](slides_github+rstudio.pdf) |  |
 
 ## Recursos para seguir aprendiendo
 
@@ -45,6 +45,7 @@ Antes del taller sigue la **[guía de instalación](guia-instalacion.md)** paso 
 - [Documentación de usethis](https://usethis.r-lib.org/).
 - [Writing your first documentation PR](https://github.com/tidyverse/tidy-dev-day/blob/main/worksheet/index.pdf)
 - [rOpenSci](https://ropensci.org/) y su guía de desarrollo de paquetes.
+- [Simulador de flujo de trabajo de control de versiones](https://lindateachtech.netlify.app/blogs/simulador-flujo-control-de-versiones/)
 
 ## Sobre este taller
 
